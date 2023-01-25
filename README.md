@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **shoeone96/shoeone96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshoeone96&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 
 ![shoeone's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoeone96&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fkfkfk1800)](https://solved.ac/fkfkfk1800/)
