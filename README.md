@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 # 💪Skills
 ### Platforms & Languages
 - Back-end
- - Language : JAVA, JAVASCRIPT
- - Framwork : Spring, Springboot, Nodejs
- - Spring : SpringSecurity, SpringAMQP, SpringDataJpa
- - Database : MySQL, MariaDB, PostgreSQL, Redis
- - AWS : EC2, RDS(MariaDB, PostgreSQL), ALB, Route53
+  - Language : JAVA, JAVASCRIPT
+  - Framwork : Spring, Springboot, Nodejs
+  - Spring : SpringSecurity, SpringAMQP, SpringDataJpa
+  - Database : MySQL, MariaDB, PostgreSQL, Redis
+  - AWS : EC2, RDS(MariaDB, PostgreSQL), ALB, Route53
 
 - Front-end
- - Language : JAVASCRIPT
- - Library : React
+  - Language : JAVASCRIPT
+  - Library : React
 
  
 # :mailbox_with_mail: Contacts
