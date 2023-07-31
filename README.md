@@ -79,6 +79,15 @@ Here are some ideas to get you started:
     - 기획: 유저리서치, 아이디어 기획 진행 담당
 
 ---
+
+# Activity
+- **동국대학교 융합프로그래밍(자바) 튜터**(2022년 하반기)
+- **동국대학교 자료구조및알고리즘1(자료구조 기초) 튜터**(2022년 하반기)
+
+---
+
+# Education
+- 동국대학교 **사회학** 전공 / **융합소프트웨어** 연계전공 / **경영학** 부전공
  
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwnddnjs96@gmail.com)](mailto:kimsh1691@gmail.com)
