@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - AWS : EC2, RDS(MariaDB, PostgreSQL), ALB, Route53
 
 ### Front-end
-- Language : JAVASCRIPT
+- Language : JavaScript
 - Library : React
 
 ---
