@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 # 💻 Projects
 ### Ongoing
+#### Devlopment
 - **[Delivery_Service(배달 플랫폼 서버 구현)](https://github.com/shoeone96/Delivery_service)**
     - 소개: 일상에서 사용하는 배달 애플리케이션의 서버를 구현해보는 개인 프로젝트
     - 역할(Back-End): 서버 전체 개발
