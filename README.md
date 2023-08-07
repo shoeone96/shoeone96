@@ -46,7 +46,7 @@ Here are some ideas to get you started:
     - 서버 담당: 1명
     - 기간: 2023.04 ~ 2023.06
  
-### finished
+### Finished
 #### Devlopment
 - **[DateBuzz(데이트 코스 추천 플랫폼)](https://github.com/CSID-DGU/2023-1-SCS4031-Momentree-2)**
     - 프로젝트 개요: 데이트 코스를 공유하고 추천해주는 커뮤니티
