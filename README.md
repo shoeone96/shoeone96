@@ -45,7 +45,16 @@ Here are some ideas to get you started:
     - 프로젝트 개요: 데이트 버즈 프로젝트 마무리 후 운영 상 필요했던 기능을 추가 구현하는 프로젝트
     - 역할(Back-End): 서버 전체 개발, 캐싱, SpringAMQP
     - 서버 담당: 1명
-    - 기간: 2023.04 ~ 2023.06
+    - 기간: 2023.07 ~
+- **[Kiosk(의류 기부 플랫폼 옷깃 키오스크)](https://github.com/shoeone96/kiosk)**
+    - 프로젝트 개요: 대학교 기숙사에서 의류 기부를 받기 위한 키오스크의 화면 구현 프로젝트
+    - 역할(Front-End / Back-End): 화면 및 서버 개발
+    - 개발 스택:
+        - Front(React 기반 화면 구성)
+        - Back(Springboot 기반 서버 구현)
+        - Devops(Linux ubuntu, 다중 Docker Container 환경) 
+    - 개발 담당: 1명, 기획: 2명
+    - 기간: 2023.08 ~ 2023.08
  
 ### Finished
 #### Devlopment
