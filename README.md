@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 ---
 
 # Education
-- 동국대학교 **사회학** 전공 / **융합소프트웨어** 연계전공 / **경영학** 부전공
+- 동국대학교 **사회학** 전공 / **융합소프트웨어** 연계전공 
  
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwnddnjs96@gmail.com)](mailto:kimsh1691@gmail.com)
