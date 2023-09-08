@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 # 🏆 Prize
 
-#### Server Development(Spring)
+#### Server Development(Full-Stack)
 - **2023 동국대학교 캡스톤디자인 밸류업(장려상-총장상)**
     - 개발: 의류기부함 키오스크 화면 및 서버 개발
 
