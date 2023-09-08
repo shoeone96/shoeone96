@@ -83,9 +83,12 @@ Here are some ideas to get you started:
 ---  
 
 # 🏆 Prize
-#### Project Management
+
+#### Server Development(Spring)
 - **2023 동국대학교 캡스톤디자인 밸류업(장려상-총장상)**
     - 개발: 의류기부함 키오스크 화면 및 서버 개발
+
+#### Project Management
 - **2022 LG CNS DX 아이디어 공모전(입선)**
     - 기획: 유저리서치, 아이디어 기획, 사용성 평가 파트 담당
 - **2021 동국대학교 캡스톤디자인 UCC 영상 페스티벌(최우수상)**
