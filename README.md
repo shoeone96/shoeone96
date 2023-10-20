@@ -36,16 +36,15 @@ Here are some ideas to get you started:
 # 💻 Projects
 ### Ongoing
 #### Devlopment
-- **[Delivery_Service(배달 플랫폼 서버 구현)](https://github.com/shoeone96/Delivery_service)**
-    - 소개: 일상에서 사용하는 배달 애플리케이션의 서버를 구현해보는 개인 프로젝트
-    - 역할(Back-End): 서버 전체 개발
-    - 개인 프로젝트
-    - 기간: 2023.07 ~
 - **[DateBuzz_Enhancing(데이트 코스 추천 플랫폼)](https://github.com/shoeone96/dateBuzz_public)**
     - 프로젝트 개요: 데이트 버즈 프로젝트 마무리 후 운영 상 필요했던 기능을 추가 구현하는 프로젝트
     - 역할(Back-End): 서버 전체 개발, 캐싱, SpringAMQP
     - 서버 담당: 1명
     - 기간: 2023.07 ~
+
+ 
+### Finished
+#### Devlopment
 - **[Kiosk(의류 기부 플랫폼 옷깃 키오스크)](https://github.com/shoeone96/kiosk)**
     - 프로젝트 개요: 대학교 기숙사에서 의류 기부를 받기 위한 키오스크의 화면 구현 프로젝트
     - 역할(Front-End / Back-End): 화면 및 서버 개발
@@ -55,9 +54,6 @@ Here are some ideas to get you started:
         - Devops(Linux ubuntu, 다중 Docker Container 환경) 
     - 개발 담당: 1명, 기획: 2명
     - 기간: 2023.08 ~ 2023.08
- 
-### Finished
-#### Devlopment
 - **[DateBuzz(데이트 코스 추천 플랫폼)](https://github.com/CSID-DGU/2023-1-SCS4031-Momentree-2)**
     - 프로젝트 개요: 데이트 코스를 공유하고 추천해주는 커뮤니티
     - 역할(Back-End): Spring Boot 서버개발, Spring Data JPA, mariaDB 개발 담당
@@ -74,11 +70,6 @@ Here are some ideas to get you started:
     - 역할(Back-End): Spring Boot 서버개발, Spring Data JPA, mariaDB 개발 담당
     - 서버 담당: 4명
     - 기간: 2021.07 ~ 2021.08
-- **[영화 평점 사이트 개발](https://github.com/shoeone96/haghae99-week-1-group-36-)**
-    - 프로젝트 개요: 영화에 대해 평점을 기록하고 공유하는 플랫폼
-    - 역할(Back-End): Flask 서버 개발 담당
-    - 서버 담당: 1명
-    - 기간: 2021.07
 
 ---  
 
