@@ -96,7 +96,8 @@ Here are some ideas to get you started:
 ---
 
 # Education
-- 동국대학교 **사회학** 전공 / **융합소프트웨어** 연계전공 
+- 동국대학교 **사회학** 전공 / **융합소프트웨어** 연계전공 2016.03 ~ 2023.07(수료)
+- 프로그래머스 데브코스 5기(백엔드) 2023.09.19 ~ (진행중)
  
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwnddnjs96@gmail.com)](mailto:kimsh1691@gmail.com)
