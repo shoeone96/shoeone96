@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 #### Devlopment
 - **[Kiosk(의류 기부 플랫폼 옷깃 키오스크)](https://github.com/shoeone96/kiosk)**
     - 프로젝트 개요: 대학교 기숙사에서 의류 기부를 받기 위한 키오스크의 화면 구현 프로젝트
-    - 역할(Front-End / Back-End): 화면 및 서버 개발
+    - 역할(Full-Stack): 화면 및 서버 개발
     - 개발 스택:
         - Front(React 기반 화면 구성)
         - Back(Springboot 기반 서버 구현)
