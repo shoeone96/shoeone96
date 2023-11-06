@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ---
 
 # 💻 Projects
-### Ongoing
+### Ongoing  
 #### Devlopment
 - **[DateBuzz_Enhancing(데이트 코스 추천 플랫폼)](https://github.com/shoeone96/dateBuzz_public)**
     - 프로젝트 개요: 데이트 버즈 프로젝트 마무리 후 운영 상 필요했던 기능을 추가 구현하는 프로젝트
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     - 기간: 2023.07 ~
 
  
-### Finished
+### Finished  
 #### Devlopment
 - **[Kiosk(의류 기부 플랫폼 옷깃 키오스크)](https://github.com/shoeone96/kiosk)**
     - 프로젝트 개요: 대학교 기숙사에서 의류 기부를 받기 위한 키오스크의 화면 구현 프로젝트
