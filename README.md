@@ -100,5 +100,6 @@ Here are some ideas to get you started:
 - 프로그래머스 데브코스 5기(백엔드) 2023.09.19 ~ (진행중)
  
 # :mailbox_with_mail: Contacts
+[blog-tistory](https://shoenoe.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwnddnjs96@gmail.com)](mailto:kimsh1691@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dlwnddnjs96@naver.com)](mailto:rlatngus1691@naver.com)
