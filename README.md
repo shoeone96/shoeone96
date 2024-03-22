@@ -36,40 +36,58 @@ Here are some ideas to get you started:
 # 💻 Projects
 ### Ongoing  
 #### Devlopment
-- **[DateBuzz_Enhancing(데이트 코스 추천 플랫폼)](https://github.com/shoeone96/dateBuzz_public)**
-    - 프로젝트 개요: 데이트 버즈 프로젝트 마무리 후 운영 상 필요했던 기능을 추가 구현하는 프로젝트
-    - 역할(Back-End): 서버 전체 개발, 캐싱, SpringAMQP
-    - 서버 담당: 1명
-    - 기간: 2023.07 ~
-
+- ## **BBangle(건강한 베이커리를 판매하는 곳을 모아주는 플랫폼)**
+    - 프로젝트 개요: 저당, 글루틴 프리 등 건강한 베이커리를 찾는 사람들을 위해 판매처를 모아주고 추천해주는 플랫폼
+    - 역할(back-end):
+        - 게시글 도메인 개발
+            - querydsl을 활용한 필터링 및 조회
+            - Redis를 이용한 실시간 게시글 인기순, 추천순 정렬
+        - 유저 도메인 개발
+        - 공지사항 도메인 개발
+        - 위시리스트 도메인 개발
+    - 백엔드 담당: 3명, 프론트 엔드 4명, 기획: 2명, 디자이너 2명, 마케팅 2명
+    - 기간: 2023.12 ~
+- ## **[MasilGasil(산책을 공유하고 기록할 수 있는  플랫폼)](https://github.com/Team-SilverTown/Team-SilverTown-MasilGasil-BE/tree/prod)**
+    - 프로젝트 개요: 잠깐의 여유와 운동이 필요한 현대인들에게 산책을 기록하고 산책로를 공유하며 색다른 경험을 제공하는 서비스
+    - 역할(Back-end):
+        - Spring Security 기반 인증/인가 설정
+        - JWT 기반의 토큰 인증 시스템 구축
+        - OAuth2 기반 소셜 로그인 시스템 구축
+        - RefreshToken 기능 구축
+        - 유저 도메인 API 개발
+    - 백엔드 담당: 3명, 프론트 엔드 5명
+    - 기간: 2024.01 ~ 
  
 ### Finished  
 #### Devlopment
-- **[Kiosk(의류 기부 플랫폼 옷깃 키오스크)](https://github.com/shoeone96/kiosk)**
-    - 프로젝트 개요: 대학교 기숙사에서 의류 기부를 받기 위한 키오스크의 화면 구현 프로젝트
-    - 역할(Full-Stack): 화면 및 서버 개발
-    - 개발 스택:
-        - Front(React 기반 화면 구성)
-        - Back(Springboot 기반 서버 구현)
-        - Devops(Linux ubuntu, 다중 Docker Container 환경) 
-    - 개발 담당: 1명, 기획: 2명
-    - 기간: 2023.08 ~ 2023.08
-- **[DateBuzz(데이트 코스 추천 플랫폼)](https://github.com/CSID-DGU/2023-1-SCS4031-Momentree-2)**
+- ## **[MasilGasil(산책을 공유하고 기록할 수 있는  플랫폼)](https://github.com/Team-SilverTown/Team-SilverTown-MasilGasil-BE/tree/prod)**
+    - 프로젝트 개요: 잠깐의 여유와 운동이 필요한 현대인들에게 산책을 기록하고 산책로를 공유하며 색다른 경험을 제공하는 서비스
+    - 역할(Back-end):
+        - Spring Security 기반 인증/인가 설정
+        - JWT 기반의 토큰 인증 시스템 구축
+        - OAuth2 기반 소셜 로그인 시스템 구축
+        - RefreshToken 기능 구축
+        - 유저 도메인 API 개발
+    - 백엔드 담당: 백엔드 3명, 프론트 엔드 5명
+    - 기간: 2024.01 ~ 
+- ## **[OOTW(날씨에 맞는 코디 추천 플랫폼)](https://github.com/backendoori/ootw-backend)**
+    - 프로젝트 개요: 그날의 날씨를 확인하고 아바타 코디 조합을 통해 나만의 코디 조합을 만들고 공유하는 플랫폼
+    - 역할(Back-end):
+        - 게시판 좋아요 기능
+        - 아바타 이미지 기능
+            - 아바타 이미지 등록 및 조회 기능
+            - Enum Validation annotation 생성 및 적용
+            - 파일 저장 오픈 소스 MinIO 도입
+            - 추후 아바타 이미지/게시글의 수정 삭제 로직 후 발생 가능한 이미지 정합성 문제 확인 및 scheduling을 도입, 일정 시간 마다 @Async 를 이용하여 비동기적으로 작업으로 이미지 저장 비용 감소
+            - filename의 unique 조건을 위해 UUID를 이용한 filename 생성 도입 
+    - 개발 담당: 백엔드 3명
+    - 기간: 2023.12 ~ 2023.01
+- ## **[DateBuzz(데이트 코스 추천 플랫폼)](https://github.com/CSID-DGU/2023-1-SCS4031-Momentree-2)**
     - 프로젝트 개요: 데이트 코스를 공유하고 추천해주는 커뮤니티
     - 역할(Back-End): Spring Boot 서버개발, Spring Data JPA, mariaDB 개발 담당
     - 서버 담당: 1명
     - 기간: 2023.04 ~ 2023.06
-    - [front github]()
-- **[동국대학교-Eclass 연동 캘린더](https://github.com/shoeone96/2023-1-OSSProj-NoQuestionMark-2)**
-    - 프로젝트 개요: 학교 일정과 개인일정을 동시에 관리할 수 있는 서비스 
-    - 역할(Back-End): Spring Boot 서버개발, Spring Data JPA, PostgreSQL개발 담당
-    - 서버 담당: 1명
-    - 기간: 2023.04 ~ 2023.06
-- **[웹툰 추천 플랫폼에서 기획 및 서버 개발](https://github.com/yeonnwoo/Webtooni_server)**
-    - 프로젝트 개요: 여러 사이트의 웹툰을 모아볼 수 있고 추천받을 수 있는 커뮤니티 플랫폼
-    - 역할(Back-End): Spring Boot 서버개발, Spring Data JPA, mariaDB 개발 담당
-    - 서버 담당: 4명
-    - 기간: 2021.07 ~ 2021.08
+    - [front github](https://github.com/CSID-DGU/2023-1-SCS4031-Momentree)
 
 ---  
 
@@ -92,12 +110,12 @@ Here are some ideas to get you started:
 # Activity
 - **동국대학교 융합프로그래밍(자바) 튜터**(2022년 하반기)
 - **동국대학교 자료구조및알고리즘1(자료구조 기초) 튜터**(2022년 하반기)
-
+- **[프로그래머스 발표 스터디](https://youtu.be/lp4WOiOqDvo?si=gvxK_ROB5HPSQFBV)**(2023 하반기)
 ---
 
 # Education
-- 동국대학교 **사회학** 전공 / **융합소프트웨어** 연계전공 2016.03 ~ 2023.07(수료)
-- 프로그래머스 데브코스 5기(백엔드) 2023.09.19 ~ (진행중)
+- 동국대학교 **사회학** 전공 / **융합소프트웨어** 연계전공 2016.03 ~ 2024.02
+- 프로그래머스 데브코스 5기(백엔드) 2023.09.19 ~ 2024.03.25
  
 # :mailbox_with_mail: Contacts
 [blog-tistory](https://shoenoe.tistory.com/)
