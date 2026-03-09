@@ -79,6 +79,25 @@ AI 기반 게임 서버 개발팀에서 웹 기반 제품의 백엔드를 담당
 
 ---
 
+## Side Project
+
+### 친구다치 (chinguDachi) | 1인 풀스택 개발
+
+> 2025.03 ~ 현재 (MVP 개발 중)
+
+한일 실시간 AI 번역 채팅 기반 네트워킹 플랫폼. 한국어로 보내면 자연스러운 일본어로, 일본어로 보내면 자연스러운 한국어로 AI가 2초 이내에 자동 번역합니다.
+
+🌐 [Dev Site](https://dev.chingu-dachi.com) · 🏠 [소개 사이트](https://chingu-dachi.github.io/.github/) · 🐙 [GitHub Org](https://github.com/chingu-dachi)
+
+`Kotlin` `Spring Boot 4.0` `React 19` `TypeScript` `Expo` `WebSocket/STOMP` `PostgreSQL` `Redis` `OpenAI GPT-4.1-mini` `AWS` `Turborepo`
+
+- **AI 실시간 번역 채팅**: WebSocket(STOMP) 기반 실시간 메시징 + OpenAI GPT-4.1-mini 비동기 번역 파이프라인 구축. 원문 즉시 전달 → 번역 완료 시 push하는 2단계 UX
+- **모노레포 풀스택**: Turborepo + pnpm workspace로 Web(React 19 + Vite 6)과 Mobile(Expo) 코드 80% 공유
+- **DDD + Clean Architecture**: 도메인 중심 패키지 구조, Port/Adapter 패턴, TDD 기반 개발
+- **인프라**: Backend EC2 + Nginx, Frontend AWS Amplify, GitHub Actions CI/CD
+
+---
+
 ## Activity & Certifications
 
 | 구분 | 내용 | 시기 |
